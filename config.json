@@ -2,11 +2,11 @@
   "language": "en",
   "DeveloperMode": false,
   "autoCreateDB": true,
-  "BOTNAME": "ARIF BABU 😉❤️",
+  "BOTNAME": "Addu 😉❤️",
   "PREFIX": "#",
 
-  "ADMINBOT": ["61572870433256"],
-  "NDH": ["61572870433256"],
+  "ADMINBOT": ["61580277191451"],
+  "NDH": ["61580277191451"],
 
   "adminOnly": false,
   "ndhOnly": false,
